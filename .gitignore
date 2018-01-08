@@ -1,0 +1,18 @@
+#Ignore files list
+
+
+*.diff
+*.err
+*.orig
+*.log
+*.swo
+*.swp
+*.vi
+.DS_Store
+Thumbs.db
+.cache
+.projects
+.settinsg
+.tmp/
+*~
+node_modules
